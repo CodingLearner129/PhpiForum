@@ -1,0 +1,10 @@
+.card{
+    margin: auto;
+}
+#ques, .contact, .serachResults{
+    min-height: 66vh;
+}
+.thrdlst{
+    position: absolute;
+    right: 7.6rem;
+}
